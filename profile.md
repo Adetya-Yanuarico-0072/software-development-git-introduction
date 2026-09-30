@@ -1,4 +1,7 @@
-#profile
+# profile mahasiswa
+
+## data diri
+
 Nama Lengkap: Adetya Yanuarico
 Npm: 2413020072
 Hobi: Jalan Jalan
