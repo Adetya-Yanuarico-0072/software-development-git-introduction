@@ -1,7 +1,7 @@
 # Perkenalan Diri
 
-Nama Lengkap   : Adetya Yanuarico
-NPM            : 2413020072
+Nama Lengkap   : Adetya Yanuarico<br>
+NPM            : 2413020072<br>
 Program Studi  : Teknik Informatika
 
 ## Minat Bidang IT
